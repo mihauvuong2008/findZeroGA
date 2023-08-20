@@ -11,7 +11,7 @@ public class Trainer {
 	private ArrayList<GENE> Populations;
 	private Random ran;
 	private AiEvolution aiEvolution;
-	private int LenOfGen = 250;
+	private int LenOfGen = 30;
 	private int Loop = 1000;
 	private Boolean naturalFitnessScores = false;
 	private int firstClasssize = 10000;
